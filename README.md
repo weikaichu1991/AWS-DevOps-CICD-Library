@@ -1,1 +1,1 @@
-# AWS-DevOps-CICD-Project-01
+# AWS-DevOps-CICD-Library
